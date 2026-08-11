@@ -1,2 +1,3 @@
-# AICW_GSSSIETW
-15 Days of Spoke Engineering 
+# AICW Training(Supported by Microsoft and SAP in collaboration with MSDE)
+- this is an intense training on **AIML** for 15 days.
+- The track is **SPOKE ENGINEERING**
